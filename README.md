@@ -6,7 +6,7 @@ Why this structure? because we already use the gsm and is very easy for the mast
 
 In this repo we provide all need to implement by yourself the (for now) two thermostats, like the hw, the case for hw, how to link to your boiler and the software needed. 
 
-Here there are the link for the [gsm module](https://it.aliexpress.com/item/1005012393503763.html), for the [wifi module](https://it.aliexpress.com/item/1005007004119282.html), for [master's infoscreen](https://it.aliexpress.com/item/1005008779046522.html) and for [temperature sensor](https://it.aliexpress.com/item/1005012179635448.html) (to link corrrectly you need to add a 4.7K resistance between the sensor and the esp32) one for each thermostat you implement
+Here there are the link for the [gsm module](https://it.aliexpress.com/item/1005012393503763.html), for the [wifi module](https://it.aliexpress.com/item/1005007004119282.html), for [master's infoscreen](https://it.aliexpress.com/item/1005008779046522.html), an [RTC module](https://it.aliexpress.com/item/1005010675331392.html) and for [temperature sensor](https://it.aliexpress.com/item/1005012179635448.html) (to link corrrectly you need to add a 4.7K resistance between the sensor and the esp32) one for each thermostat you implement
 
 
 
